@@ -60,6 +60,7 @@ This project focuses on crafting interactive dashboards using Power BI to uncove
 - Dashboard Pages (Screenshots with Description)  
 - Key Business Insights   
 - Key Takeaways
+- Summary / Storyboard
 
 ---
 
