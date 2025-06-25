@@ -56,10 +56,10 @@ This project focuses on crafting interactive dashboards using Power BI to uncove
 ---
 
 ## 🗣️ Final Presentation (PowerPoint)
-- Slide 1: Title & Objective  
-- Slide 2–5: Dashboard Pages (Screenshots with insights)  
-- Slide 6: Key Business Insights & Takeaways  
-- Slide 7: Summary / Storyboard  
+- Title & Objective  
+- Dashboard Pages (Screenshots with Description)  
+- Key Business Insights   
+- Key Takeaways
 
 ---
 
