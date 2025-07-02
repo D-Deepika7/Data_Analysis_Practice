@@ -1,4 +1,4 @@
-# 📊 Task 2 – Data Visualization & Storytelling  
+# 📊 Task 2 & 3 – Data Visualization, Storytelling & Dashboard Design  
 ## 🚀 Superstore Performance Analysis Dashboard (Power BI)
 
 This project focuses on crafting interactive dashboards using Power BI to uncover business insights from the **Superstore Sales Dataset**. The goal was to apply visual storytelling principles and create a compelling presentation based on data-driven findings.
