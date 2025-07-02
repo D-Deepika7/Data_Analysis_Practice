@@ -34,8 +34,8 @@ This project demonstrates practical SQL skills by extracting, analyzing, and vis
 
 ## 📂 Project Structure
 
-- `Ecommerce_SQL_Analysis.sql` – Contains all SQL queries  
-- `Output_Tables.xlsx` – Results exported for visualization  
+- `Ecommerce_analysis.sql` – Contains all SQL queries  
+- `Ecommerce_Amazon_Output_Tables.xlsx` – Results exported for visualization  
 - `Screenshots/` – Screenshots of outputs in SSMS  
 - `README.md` – Project overview (this file)
 
