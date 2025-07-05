@@ -1,0 +1,9 @@
+1. Sales peaked in November every year, indicating strong end-of-year performance.
+
+2. States like California and New York are top-performing in terms of sales. Marketing efforts here are yielding strong returns.
+
+3. Technology was the top-selling category, contributing to over 35% of total sales, followed by Furniture and then Office Supplies.
+
+4. The West region contribute most to sales, followed by East, Central and South. 
+
+5. Consumers are the key driving segment in terms of sales, followed by Corporate and Home Office.
