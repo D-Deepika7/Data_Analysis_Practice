@@ -1,5 +1,5 @@
 
-# 📊  Task 7 - Sales Data Analysis (SQLite Database using Python)
+# 📊  Sales Data Analysis (SQLite Database using Python)
 
 ## 🧩 Objective  
 Use SQL inside Python to extract basic sales insights from a SQLite database, summarize results, and visualize them using print statements and bar charts.
