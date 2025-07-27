@@ -6,7 +6,6 @@ To analyze and visualize key financial performance metrics for startups, focusin
 - **Burn Rate**
 - **CAC (Customer Acquisition Cost)**
 - **LTV (Customer Lifetime Value)**
-- **Runway**
 
 This enables better financial planning, investor reporting, and insights into startup sustainability.
 
@@ -57,7 +56,7 @@ Simulated KPIs based on industry-like assumptions:
 | **Run Rate** | Monthly Expenses projected over 12 months |
 | **LTV:CAC Ratio** | LTV ÷ CAC |
 
-📁 Final dataset exported as: `kpi_by_month.csv`
+📁 Final dataset exported as: `kpis_by_month.csv`
 
 ---
 
@@ -68,32 +67,33 @@ Simulated KPIs based on industry-like assumptions:
    - KPI Cards: Revenue, CAC, LTV, Burn Rate, Runway
    - Trend Charts (Line/Area): Monthly Investment, Revenue & Expenses
 
-2. **CAC & LTV Insights**
+2. **Investment Trend Analysis**
+   - Top investors by amount
+   - Funding type breakdowns (Pie/Donut)
+
+3. **CAC & LTV Insights**
    - Bar Chart: LTV vs CAC over time
    - LTV:CAC Ratio by month
 
-3. **Cohort Analysis**
+4. **Cohort Analysis**
    - Customer growth over time grouped by cohort month
    - Heatmaps or stacked area plots
 
-4. **Investor/Startup Overview**
-   - Top investors by amount
-   - Funding type breakdowns (Pie/Donut)
+
 
 ---
 
 ## 📚 Learnings
-- Translating raw funding data into financial KPIs requires strong business assumptions
 - Monthly grouping and derived metrics help simplify complex finance indicators
 - Power BI's DAX and visual slicers are powerful for business-centric storytelling
 - Python is efficient for data prep and can complement Excel/BI workflows
 
 ---
 
-## ✅ Deliverables
+## ✅ Output Files
 - 📊 **Power BI Dashboard**: Startup KPI trends & insights
 - 🧮 **Excel Template**: Assumption models
-- 📁 **Cleaned Dataset**: `startup_funding_cleaned.csv`, `kpi_by_month.csv`
+- 📁 **Cleaned Dataset**: `cleaned_startup_funding.csv`, `kpis_by_month.csv`
 - 📓 **Jupyter Notebook**: KPI logic, calculations, EDA
 - 📄 **Report**: LTV:CAC analysis and trend summary
 
