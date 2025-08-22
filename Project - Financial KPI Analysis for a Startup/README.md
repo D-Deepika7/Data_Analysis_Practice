@@ -95,7 +95,7 @@ Simulated KPIs based on industry-like assumptions:
 - 🧮 **Excel Template**: Assumption models
 - 📁 **Cleaned Dataset**: `cleaned_startup_funding.csv`, `kpis_by_month.csv`
 - 📓 **Jupyter Notebook**: KPI logic, calculations, EDA
-- 📄 **Report**: LTV:CAC analysis and trend summary
+- 📄 **Report**: LTV : CAC analysis and trend summary
 
 ---
 
